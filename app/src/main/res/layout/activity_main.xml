@@ -14,4 +14,5 @@
     android:layout_width="150dp"
     android:src="res/drawable/logo"
     >
+    //يله؟//
 </ImageView>
